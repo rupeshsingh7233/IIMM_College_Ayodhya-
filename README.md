@@ -1,4 +1,4 @@
 # IIMM_College_Ayodhya-
  Developed UI using HTML/CSS, JavaScript ES6+,and Bootstrap.
  <br>
-Author - Rupesh Singh
+Author :- Rupesh Singh
